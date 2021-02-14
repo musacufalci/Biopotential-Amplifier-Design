@@ -20,14 +20,14 @@ Tespit edilen sinyalin 1-1.5 mv seviyesinde değeri 500 mv seviyelerine çıkar�
 
 Özellikleri:
 
-Doğrusal Yükselteçler
-Gerilim Kaynağı, Tek / Çift (±): ± 6V ~ 18V
-Akım Kaynağı: 3.5mA
-Çalışma Sıcaklığı: -25 ° C ~ 85 ° C
-Bant Genişliği Ürünü Kazanın: 25MHz
-Pin Programlanabilir Kazançlar: 1, 100, 200, 500
-Dönüş Hızı: 5V / µs
--3db Bant Genişliği: 1MHz
-Akım - Giriş Eğilimi: 50nA
-Gerilim - Giriş Ofseti: 200µV 
+- Doğrusal Yükselteçler
+- Gerilim Kaynağı, Tek / Çift (±)   : ± 6V ~ 18V
+- Akım Kaynağı                      : 3.5mA
+- Çalışma Sıcaklığı                 : -25 ° C ~ 85 ° C
+- Bant Genişliği Ürünü Kazanın      : 25MHz
+- Pin Programlanabilir Kazançlar    : 1, 100, 200, 500
+- Dönüş Hızı                        : 5V / µs
+- -3db Bant Genişliği               : 1MHz
+- Akım - Giriş Eğilimi              : 50nA
+- Gerilim - Giriş Ofseti            : 200µV 
 

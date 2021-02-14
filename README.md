@@ -13,4 +13,13 @@ Slew Rate			                  : 5V/µs
 Current - Input Bias		        : 50nA
 Voltage - Input Offset		      : 200µV
 
-
+Broken control
+Contact control
+Electrical continuity control
+High voltage and insulation control
+Superficial check of chips due to faulty mounting of plug and cable ends
+Audible and light alarm for defective product
+Ability to see the faulty production reason on the screen
+Ability to see test stages on the screen
+With defective product counter
+With robust product counter

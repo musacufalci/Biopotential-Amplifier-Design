@@ -1,4 +1,4 @@
-# Biopotential_Amplifier_Design
+# Biopotential Amplifier Design
 
 The value of the detected signal at 1-1.5 mv level was increased to 500 mv levels.
 
